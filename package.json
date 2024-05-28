@@ -1,0 +1,16 @@
+{
+  "name": "storeassignment",
+  "version": "1.0.0",
+  "description": "Automate Product and Addon Addition to Cart using Playwright",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.44.1",
+    "typescript": "^5.4.5"
+  }
+}
