@@ -1,0 +1,10 @@
+{
+    "cpanelLicencesPage": {
+        "licenseName": "cPanel Solo® Cloud (1 Account)"
+    },
+    "cartPage": {
+        "ipAddress": "2.2.2.2",
+        "addonName": "Monthly CloudLinux",
+        "licenseName": "cPanel Solo® Cloud (1 Account)"
+    }
+}
