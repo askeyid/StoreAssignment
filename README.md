@@ -3,6 +3,10 @@
 ````
 The goal of this task is to automate the process of adding a product and an addon to the cart on the cPanel Store website ( Portal Home - cPanel Store ) using Playwright. Your tests should ensure that the product and the addon are added to the cart correctly, contain the correct information, and do not disappear on step 3 of the checkout. Additionally, verify that the payment options appear along with the registration form. Please note that creating an account and submitting a paid order is unnecessary. 
 ````
+## Developed by
+````
+Oleksandr Malyhon
+````
 ## Prerequisites 
 ````
 Create a private GitHub repository. 
